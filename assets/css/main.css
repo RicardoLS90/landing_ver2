@@ -19,9 +19,9 @@
 
 /* Colors */
 :root {
-  --color-default: #0e2342;
-  --color-primary: #2face6;
-  --color-secondary: #52565e;
+  --color-default: #043a70;
+  --color-primary: #CD853F;
+  --color-secondary: #E2725B;
 }
 
 /* Smooth scroll behavior */
@@ -66,7 +66,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f5f6f7;
+  background-color: #fff;
 }
 
 .section-header {
@@ -1862,7 +1862,7 @@ section {
 
 .hero .carousel-item::before {
   content: "";
-  background-color: rgba(100, 97, 97, 0.7);
+  background-color: rgba(0, 0, 0, 0.7);
   position: absolute;
   inset: 0;
 }
